@@ -26,3 +26,5 @@ robot1.stop()
 robot1.weld()
 robot2.start()
 robot2.paint()
+
+robot1.show_temperature()

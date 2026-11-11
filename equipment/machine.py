@@ -16,3 +16,5 @@ class Machine:
 
     def check_status(self):
         print(f"{self.name} status: {self.status}")
+    def show_temperature(self):
+        print(f"{self.name} temperature: {self.temperature}°C")
